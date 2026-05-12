@@ -35,7 +35,7 @@ AppleDisplay-22f0-3320"
 
 1024 Sets the port to HDMI<00 04 00 00>)
 
-<img width="471" height="243" alt="Captura de pantalla 2026-05-12 a las 11 49 50" src="https://github.com/user-attachments/assets/d684b773-8fd1-489e-984b-4c9027c449d4" />
+<img width="426" height="161" alt="Captura de pantalla 2026-05-12 a las 11 50 03" src="https://github.com/user-attachments/assets/dfa1642a-73b3-4eea-a40d-8aa641d3cb87" />
 
 
 
