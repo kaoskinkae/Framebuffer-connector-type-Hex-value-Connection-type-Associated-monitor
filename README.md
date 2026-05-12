@@ -37,6 +37,7 @@ AppleDisplay-22f0-3320"
 
 <img width="426" height="161" alt="Captura de pantalla 2026-05-12 a las 11 50 03" src="https://github.com/user-attachments/assets/dfa1642a-73b3-4eea-a40d-8aa641d3cb87" />
 
+Now it would be interesting to create a program like Screen that displays the Monitors / Connections / Framebuffer
 
 
 
