@@ -1,0 +1,1 @@
+# Framebuffer-connector-type-Hex-value-Connection-type-Associated-monitor
