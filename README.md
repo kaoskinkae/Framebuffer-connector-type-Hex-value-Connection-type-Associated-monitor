@@ -9,3 +9,12 @@
 
 <img width="575" height="756" alt="Captura de pantalla 2026-05-12 a las 11 25 26" src="https://github.com/user-attachments/assets/f0d23e17-2b04-4d0a-a056-b18471d9dc84" />
 
+Let's analyze the command to find out the necessary data:
+
+=== Framebuffer @2 ===
+"connector-type" = 1024
+AppleDisplay-220e-3545"
+
+=== Framebuffer @3 ===
+"connector-type" = 2048
+AppleDisplay-22f0-3320"
