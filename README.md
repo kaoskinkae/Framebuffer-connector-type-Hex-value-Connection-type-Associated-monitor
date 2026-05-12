@@ -26,11 +26,15 @@ AppleDisplay-22f0-3320"
 
 @1 220e-3545 HP 24fw
 
-1024 Sets the port to HDMI(<00 08 00 00>)
+1024 Sets the port to DisplayPort(<00 08 00 00>)
 
+<img width="471" height="243" alt="Captura de pantalla 2026-05-12 a las 11 49 50" src="https://github.com/user-attachments/assets/bfa9234c-381e-4bb4-ba5e-278c0ff2aee5" />
 
 @2 22f0-3320 HP 24es
 
-2048 Sets the port to DisplayPort<00 04 00 00>)
+2048 Sets the port to HDMI<00 04 00 00>)
+
+<img width="426" height="161" alt="Captura de pantalla 2026-05-12 a las 11 50 03" src="https://github.com/user-attachments/assets/15fe206b-1358-44c2-993a-3fe415918046" />
+
 
 
