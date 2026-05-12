@@ -16,14 +16,14 @@ done
 
 Let's analyze the command to find out the necessary data:
 
-=== Framebuffer @2 ===
+**=== Framebuffer @2 ===**
 
 "connector-type" = 1024
 
 AppleDisplay-220e-3545"
 
 
-=== Framebuffer @3 ===
+**=== Framebuffer @3 ===**
 
 "connector-type" = 2048
 
