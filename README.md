@@ -2,11 +2,11 @@
 
 
 ```c++
-"for i in {0..5}; do
+for i in {0..5}; do
   echo "=== Framebuffer @${i} ==="
   ioreg -r -n "ATY,AMD,RadeonFramebuffer@${i}" -l | grep -E "connector-type|port-number|IODisplayName|display0|name"
   echo ""
-done"
+done
 ```
 
 
