@@ -24,6 +24,8 @@ AppleDisplay-220e-3545"
 
 AppleDisplay-22f0-3320"
 
+----------------------------
+
 @1 220e-3545 HP 24fw
 
 2048 Sets the port to DisplayPort(<00 08 00 00>)
