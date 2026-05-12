@@ -26,7 +26,7 @@ AppleDisplay-22f0-3320"
 
 @1 220e-3545 HP 24fw
 
-1014 Sets the port to HDMI(<00 08 00 00>)
+1024 Sets the port to HDMI(<00 08 00 00>)
 
 
 @2 22f0-3320 HP 24es
