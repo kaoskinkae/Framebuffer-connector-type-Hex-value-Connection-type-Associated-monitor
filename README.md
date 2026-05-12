@@ -14,6 +14,7 @@ Let's analyze the command to find out the necessary data:
 === Framebuffer @2 ===
 
 "connector-type" = 1024
+
 AppleDisplay-220e-3545"
 
 
@@ -25,7 +26,11 @@ AppleDisplay-22f0-3320"
 
 @1 220e-3545 HP 24fw
 
+1014 Sets the port to HDMI(<00 08 00 00>)
+
 
 @2 22f0-3320 HP 24es
+
+2048 Sets the port to DisplayPort<00 04 00 00>)
 
 
