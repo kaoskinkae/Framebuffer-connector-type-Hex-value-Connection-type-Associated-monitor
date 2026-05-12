@@ -37,7 +37,7 @@ AppleDisplay-22f0-3320"
 
 <img width="471" height="243" alt="Captura de pantalla 2026-05-12 a las 11 49 50" src="https://github.com/user-attachments/assets/2a7ba34a-841d-479e-b784-a8fc00c47a08" />
 
-
+---------------------------------------------
 @2 22f0-3320 HP 24es
 
 1024 Sets the port to HDMI<00 04 00 00>)
