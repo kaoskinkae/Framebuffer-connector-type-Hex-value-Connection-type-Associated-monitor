@@ -12,11 +12,15 @@
 Let's analyze the command to find out the necessary data:
 
 === Framebuffer @2 ===
+
 "connector-type" = 1024
 AppleDisplay-220e-3545"
 
+
 === Framebuffer @3 ===
+
 "connector-type" = 2048
+
 AppleDisplay-22f0-3320"
 
 @1 220e-3545 HP 24fw
