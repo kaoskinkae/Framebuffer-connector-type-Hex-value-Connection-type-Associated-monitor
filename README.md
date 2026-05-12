@@ -46,8 +46,6 @@ AppleDisplay-22f0-3320"
 
 -------------------------------------
 
-<img width="471" height="243" alt="800" src="https://github.com/user-attachments/assets/00b50e94-731f-4186-86b5-d94db1a117c4" />
-
 
 Now it would be interesting to create a program like Screen that displays the Monitors / Connections / Framebuffer
 
