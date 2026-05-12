@@ -42,11 +42,11 @@ AppleDisplay-22f0-3320"
 
 1024 Sets the port to HDMI<00 04 00 00>)
 
-<img width="426" height="161" alt="Captura de pantalla 2026-05-12 a las 11 50 03" src="https://github.com/user-attachments/assets/dfa1642a-73b3-4eea-a40d-8aa641d3cb87" />
+<img width="426" height="161" alt="400" src="https://github.com/user-attachments/assets/5b03ed39-90f6-496e-9486-0f44d553f353" />
 
 -------------------------------------
 
-<img width="969" height="214" alt="Captura de pantalla 2026-05-12 a las 12 04 35" src="https://github.com/user-attachments/assets/9f1f0185-ab8f-4d06-827c-a7bd708163f1" />
+<img width="471" height="243" alt="800" src="https://github.com/user-attachments/assets/00b50e94-731f-4186-86b5-d94db1a117c4" />
 
 
 Now it would be interesting to create a program like Screen that displays the Monitors / Connections / Framebuffer
