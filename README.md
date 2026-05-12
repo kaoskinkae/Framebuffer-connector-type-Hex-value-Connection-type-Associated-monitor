@@ -18,3 +18,10 @@ AppleDisplay-220e-3545"
 === Framebuffer @3 ===
 "connector-type" = 2048
 AppleDisplay-22f0-3320"
+
+@1 220e-3545 HP 24fw
+
+
+@2 22f0-3320 HP 24es
+
+
